@@ -1,0 +1,251 @@
+{
+    "pools": [
+      {
+        "rolls": 4,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:white_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:White,M.Fw_Height:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:red_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Red,M.Fw_Height:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:orange_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Orange,M.Fw_Height:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:yellow_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Yellow,M.Fw_Height:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:lime_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Green,M.Fw_Height:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:light_blue_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:LightBlue,M.Fw_Height:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blue_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Blue,M.Fw_Height:1b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:purple_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Purple,M.Fw_Height:1b}"
+              }
+            ]
+          },
+          {
+            "comment": "ここから先、高く飛ぶ",
+            "type": "minecraft:item",
+            "name": "minecraft:white_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:White,M.Fw_Height:2b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:red_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Red,M.Fw_Height:2b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:orange_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Orange,M.Fw_Height:2b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:yellow_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Yellow,M.Fw_Height:2b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:lime_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Green,M.Fw_Height:2b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:light_blue_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:LightBlue,M.Fw_Height:2b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blue_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Blue,M.Fw_Height:2b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:purple_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Purple,M.Fw_Height:2b}"
+              }
+            ]
+          },
+          {
+            "comment": "ここから先、低く飛ぶ",
+            "type": "minecraft:item",
+            "name": "minecraft:white_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:White,M.Fw_Height:0b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:red_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Red,M.Fw_Height:0b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:orange_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Orange,M.Fw_Height:0b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:yellow_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Yellow,M.Fw_Height:0b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:lime_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Green,M.Fw_Height:0b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:light_blue_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:LightBlue,M.Fw_Height:0b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:blue_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Blue,M.Fw_Height:0b}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:purple_stained_glass",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Petit,M.Fw_Color:Purple,M.Fw_Height:0b}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

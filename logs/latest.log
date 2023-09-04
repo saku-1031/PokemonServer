@@ -1,0 +1,76 @@
+[197月2023 15:23:40.464] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.0.9, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
+[197月2023 15:23:40.467] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 19.0.2 by Oracle Corporation; OS Mac OS X arch aarch64 version 13.4
+[197月2023 15:23:40.533] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/Users/sakusaku/pokemonserver/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[197月2023 15:23:40.678] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /Users/sakusaku/pokemonserver/libraries/net/minecraftforge/fmlcore/1.19.4-45.0.9/fmlcore-1.19.4-45.0.9.jar is missing mods.toml file
+[197月2023 15:23:40.679] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /Users/sakusaku/pokemonserver/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.0.9/javafmllanguage-1.19.4-45.0.9.jar is missing mods.toml file
+[197月2023 15:23:40.680] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /Users/sakusaku/pokemonserver/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.0.9/lowcodelanguage-1.19.4-45.0.9.jar is missing mods.toml file
+[197月2023 15:23:40.681] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /Users/sakusaku/pokemonserver/libraries/net/minecraftforge/mclanguage/1.19.4-45.0.9/mclanguage-1.19.4-45.0.9.jar is missing mods.toml file
+[197月2023 15:23:40.747] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[197月2023 15:23:41.328] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[197月2023 15:23:44.189] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.0.9, for MC 1.19.4 with MCP 20230314.122934
+[197月2023 15:23:44.189] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.0.9 Initialized
+[197月2023 15:23:44.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[197月2023 15:23:44.610] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@37e164c9]
+[197月2023 15:23:44.613] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.14+6360-094b734) is loaded
+[197月2023 15:23:45.232] [main/WARN] [net.minecraft.server.dedicated.DedicatedServerProperties/]: Invalid sha1 for resource-pack-sha1
+[197月2023 15:23:45.247] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[197月2023 15:23:45.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.0.9 Target: 45.1.0
+[197月2023 15:23:45.599] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/Users/sakusaku/pokemonserver/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[197月2023 15:23:45.599] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/Users/sakusaku/pokemonserver/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[197月2023 15:23:45.628] [main/INFO] [net.minecraft.server.packs.repository.FolderRepositorySource/]: Found non-pack entry './world/datapacks/.DS_Store', ignoring
+[197月2023 15:23:45.631] [main/WARN] [net.minecraft.server.packs.PathPackResources/]: Ignored non-lowercase namespace: .DS_Store in ./world/datapacks/Chuzume_Toolbox
+[197月2023 15:23:45.632] [main/WARN] [net.minecraft.server.packs.PathPackResources/]: Ignored non-lowercase namespace: .DS_Store in ./world/datapacks/Dungeon_Maker-v1.0.1
+[197月2023 15:23:45.632] [main/WARN] [net.minecraft.server.packs.PathPackResources/]: Ignored non-lowercase namespace: .DS_Store in ./world/datapacks/PokemonPvP
+[197月2023 15:23:45.637] [main/WARN] [net.minecraft.server.packs.PathPackResources/]: Ignored non-lowercase namespace: .DS_Store in ./world/datapacks/Chuzume_Toolbox
+[197月2023 15:23:45.637] [main/WARN] [net.minecraft.server.packs.PathPackResources/]: Ignored non-lowercase namespace: .DS_Store in ./world/datapacks/Dungeon_Maker-v1.0.1
+[197月2023 15:23:45.637] [main/WARN] [net.minecraft.server.packs.PathPackResources/]: Ignored non-lowercase namespace: .DS_Store in ./world/datapacks/PokemonPvP
+[197月2023 15:23:46.280] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[197月2023 15:23:46.392] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [#minecraft:carpets (from file/Dungeon_Maker-v1.0.1)] as it is missing following references: #minecraft:carpets (from file/Dungeon_Maker-v1.0.1)
+[197月2023 15:23:46.583] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[197月2023 15:23:46.789] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement move:irontail_leftclick: Non [a-z0-9/._-] character in path of location: minecraft:interaction{Tags:["iron_tail"]}}
+[197月2023 15:23:46.829] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1183 advancements
+[197月2023 15:23:46.839] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: d.maker:no_collision
+[197月2023 15:23:48.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[197月2023 15:23:48.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[197月2023 15:23:48.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[197月2023 15:23:48.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[197月2023 15:23:48.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[197月2023 15:23:48.574] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[197月2023 15:23:48.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[197月2023 15:23:48.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[197月2023 15:23:50.704] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[197月2023 15:23:50.708] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[197月2023 15:23:50.709] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[197月2023 15:23:50.710] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[197月2023 15:23:50.894] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[197月2023 15:23:51.395] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[197月2023 15:23:51.474] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2580 ms
+[197月2023 15:23:51.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.749s)! For help, type "help"
+[197月2023 15:23:51.488] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[197月2023 15:25:09.363] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player SakuSaku0408 is 41b27ada-3178-45dd-baee-63e7073b4c67
+[197月2023 15:25:09.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SakuSaku0408[/127.0.0.1:52085] logged in with entity id 65 at (-71.58315816785647, 10.5, 124.94557323425747)
+[197月2023 15:25:09.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SakuSaku0408 joined the game
+[197月2023 15:25:32.974] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Shunsei2011 is 52c27131-4aae-4fa7-9e13-e305fb367b66
+[197月2023 15:25:33.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shunsei2011[/127.0.0.1:52100] logged in with entity id 67 at (-49.68896864746825, 12.0, 101.7806444227049)
+[197月2023 15:25:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shunsei2011 (formerly known as SakuKing0129) joined the game
+[197月2023 15:29:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shunsei2011: Set own game mode to Creative Mode]
+[197月2023 15:29:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 20 command(s) from function 'matchmanagement:start']
+[197月2023 15:29:16.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shunsei2011: Set own game mode to Creative Mode]
+[197月2023 15:29:25.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shunsei2011: Executed 1 command(s) from function 'training:pokemonbook']
+[197月2023 15:29:28.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Shunsei2011: Executed 43 command(s) from function 'pokemon:pikachu/set']
+[197月2023 15:29:29.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 24 command(s) from function 'matchmanagement:start']
+[197月2023 15:29:41.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 24 command(s) from function 'matchmanagement:start']
+[197月2023 15:30:42.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SakuSaku0408 lost connection: Disconnected
+[197月2023 15:30:42.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SakuSaku0408 left the game
+[197月2023 15:30:43.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shunsei2011 lost connection: Disconnected
+[197月2023 15:30:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shunsei2011 left the game
+[197月2023 15:30:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[197月2023 15:30:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[197月2023 15:30:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[197月2023 15:30:49.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[197月2023 15:30:49.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[197月2023 15:30:49.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[197月2023 15:30:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[197月2023 15:30:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[197月2023 15:30:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[197月2023 15:30:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

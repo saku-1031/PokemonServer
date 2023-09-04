@@ -1,0 +1,99 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:16777215}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:16725301}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:16740405}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:16762421}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:3669813}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:3515391}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:3488255}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:10958335}"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:nether_star",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{M.Fw_Random:Small,M.Fw_Color2:16728762}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

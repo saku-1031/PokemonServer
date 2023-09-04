@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"[Dungeon Maker] の導入に成功しました。\n[Dungeon Maker] has been installed.\n\nCreated by "},{"text":"Chuzume\n","color":"gold"},{"text":" "}]

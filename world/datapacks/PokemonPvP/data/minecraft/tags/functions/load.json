@@ -1,0 +1,6 @@
+{
+	"values": [
+		"core:reload",
+		"score_to_health:load"
+	]
+}

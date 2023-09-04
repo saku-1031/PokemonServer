@@ -1,0 +1,27 @@
+{
+  "d.maker:entered_world": {
+    "criteria": {
+      "enter": "2023-03-30 13:29:02 +0900"
+    },
+    "done": true
+  },
+  "useful_tools:entered_world": {
+    "criteria": {
+      "enter": "2023-03-30 13:29:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-03-30 13:29:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-30 13:29:02 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 3337
+}

@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{display:{Name:'{"text":"努力値調整","color":"yellow"}'},CustomModelData:1011} 1

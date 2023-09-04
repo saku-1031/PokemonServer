@@ -1,0 +1,33 @@
+{
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2023-03-24 15:35:40 +0900"
+    },
+    "done": true
+  },
+  "d.maker:entered_world": {
+    "criteria": {
+      "enter": "2023-03-24 15:29:27 +0900"
+    },
+    "done": true
+  },
+  "useful_tools:entered_world": {
+    "criteria": {
+      "enter": "2023-03-24 15:29:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-03-24 15:29:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-03-24 15:29:27 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 3337
+}
